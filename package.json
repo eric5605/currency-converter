@@ -12,5 +12,14 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric5605/currency-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eric5605/currency-converter/issues"
+  },
+  "homepage": "https://github.com/eric5605/currency-converter#readme"
 }
